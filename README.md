@@ -1,5 +1,5 @@
 # NLP_N_gramms_analysis
-Program for finding the most frequent N-grams in the text, taking into account word forms
+Program for finding the most frequent N-grams in the text, taking into account word forms (in russian language)
 
 For using n_gram_processor:
 
